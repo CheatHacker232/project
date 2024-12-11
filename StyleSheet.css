@@ -1,0 +1,59 @@
+﻿body {
+    background-image: url('abra theme.png');
+    text-align: center;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 40px;
+    margin-bottom: 30px;
+    font-family: 'Helvetica';
+    color:white;
+}
+
+h1{
+    font-size:27px;
+}
+button {
+    border: 1px solid #ff9f00;
+    background-color: transparent;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 37px;
+    width: 30%;
+    padding: 10px 16px;
+    text-align: center;
+    color: #343434;
+    line-height: 40px;
+    margin-top:20px;
+    color:white;
+    font-size:20px;
+    transition: width,padding 0.5s ease-in-out;
+}
+
+input {
+    border-radius:5px;
+    border: 1px solid #ff9f00;
+    background-color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    background-color:white;
+
+}
+
+.btn:hover {
+    padding: 20px 16px;
+}
+
+.btn {
+    border: 1px solid #ff9f00;
+    background-color: transparent;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 37px;
+    width: 30%;
+    padding: 10px 16px;
+    text-align: center;
+    color: #343434;
+    line-height: 40px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    transition: width,padding 0.5s ease-in-out;
+}
